@@ -9,7 +9,7 @@ body{
   left: 0;
   width: 1366px;
   height: 483px;
-  background-image: url(./public/download12@2x.png);
+  background-image: url(imgs/aboutpage.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -236,6 +236,7 @@ body{
   font-size: var(--font-size-xl);
   color: var(--color-white);
   font-family: var(--font-montserrat);
+  position: sticky;
 }
 .discover1 {
   position: absolute;
